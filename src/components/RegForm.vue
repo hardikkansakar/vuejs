@@ -19,6 +19,14 @@
             <button class="sub-btn" @click="onSubmitReg"></button>
         </table>
     </form> -->
+    <h1 class="reg-text">Get Selected Dropdown Value</h1>
+    <h3>Select City</h3>
+    <select>
+        <option>Ahmedabad</option>
+        <option>Surat</option>
+        <option>Baroda</option>
+        <option>Gandhinagar</option>
+    </select>
     <h1 class="reg-text">Get Selected Checkbox Values</h1>
     <h3>Hobbies</h3>
     <label for="movie">Movie</label>
